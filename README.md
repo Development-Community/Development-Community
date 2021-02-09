@@ -3,9 +3,9 @@
 </h1>
 
 
-![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Cyrnax24&show_icons=true&theme=radical&lang=FR)
+![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Developpement-Community&show_icons=true&theme=radical&lang=FR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrnax24&layout=compact&lang=FR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developpement-Community&layout=compact&lang=FR)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
