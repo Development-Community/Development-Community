@@ -14,19 +14,16 @@
 ## 👋 Informations Of Server:
 
 Hello !
-
 We are a Developer team. 
 We are experienced in : 
 - JavaScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 - HTML / CSS / PHP
 - TypeScript 
+- Python 
 
 [Developpement-Community](@Development-Community),
 Suprazy is the owner of the Development-Community's Server
 
-## 👋 Informations Of GitHub :
-
-   
 ## 🚀 Others Links :
 
 - [Suprazy's Channel YTB](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
