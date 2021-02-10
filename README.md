@@ -33,4 +33,4 @@ We are experienced in :
 - [Fabien_Ferrari's Github](https://github.com/Fabien-Ferrari)
 - [Raiden's Github](https://github.com/Raiden-56)
 
-(It's the all staff)
+(It's all staff)
