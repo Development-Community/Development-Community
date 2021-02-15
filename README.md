@@ -16,14 +16,14 @@ We are experienced in :
 - TypeScript 
 - Python 
 
-[Developpement-Community](@Development-Community),
+[Development-Community](@Development-Community),
 [Suprazy](https://github.com/SUPRAZY-DEV) is the owner of the Development-Community's Server
 
 
 ## 🚀 Others Links :
 
 - [Suprazy's Channel YTB](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
-- [Developpement-Community](https://discord.gg/gezhUqNyfX)
+- [Development-Community](https://discord.gg/gezhUqNyfX)
 
 ## ❤️ Special Thanks :
 - [Booleans's Github](https://github.com/booleans-oss)
