@@ -30,6 +30,7 @@ We are experienced in :
 - [Louchetop's Github](https://github.com/louchetop)
 - [MCE_Kashi's Github](https://github.com/Dev-Erwan)
 - [Cyrnax.'s Github](https://github.com/Cyrnax24)
+- [Cyrnax.'s YouTube](https://www.youtube.com/channel/UCCt1VLzP3rUOoM0dEayzuKA)
 - [Fabien_Ferrari's Github](https://github.com/Fabien-Ferrari)
 - [Raiden's Github](https://github.com/Raiden-56)
 
