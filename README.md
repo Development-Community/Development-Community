@@ -35,3 +35,5 @@ We are experienced in :
 - [Raiden's Github](https://github.com/Raiden-56)
 
 (It's all staff)
+
+En cours de rédaction !
